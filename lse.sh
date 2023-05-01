@@ -1,7 +1,5 @@
 #!/bin/sh
 
-lse_version="4.10nw"
-
 ##( Colors
 #
 #( fg
